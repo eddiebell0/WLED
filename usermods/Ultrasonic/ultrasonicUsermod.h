@@ -20,7 +20,6 @@ Greater than 255 = off
 */
 
 
-
 class UltraSonicUsermod : public Usermod {
 
 private:
